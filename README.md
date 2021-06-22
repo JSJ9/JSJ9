@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JSJ9, also known as Janine!
-- 👀 I’m interested in game and app development.
-- 🌱 I’m currently learning how to make games.
-- 💞️ I’m looking to collaborate on making a 32-bit style rpg.
+- 👀 I’m interested in software engineering.
+- 🌱 I’m currently learning how develop apps using android studio!
+- 💞️ I’m looking to collaborate on making an app!
 - 📫 Reach me at jimenezj2@go.lisd.net
 
 <!---
