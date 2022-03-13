@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JSJ9, also known as Janine!
+- 👋 Hey, this is Janine, or JSJ9
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning how develop apps using android studio!
-- 💞️ I’m looking to collaborate on making an app!
+- 🌱 I’m currently learning how to update already running websites
+- 💞️ I’m looking to collaborate on making a mobile application
 - 📫 Reach me at jimenezj2@go.lisd.net
 
 <!---
