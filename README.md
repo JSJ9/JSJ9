@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning how to update already running websites
 - 💞️ I’m looking to collaborate on making a mobile application
-- 📫 Reach me at jimenezj2@go.lisd.net
+- 📫 Reach me at jimenezjsd@gmail.com
 
 <!---
 JSJ9/JSJ9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
