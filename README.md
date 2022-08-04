@@ -1,7 +1,6 @@
 - 👋 Hey, this is Janine, or JSJ9
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning how to update already running websites
-- 💞️ I’m looking to collaborate on making a mobile application
+- 👀 I’m interested in how to make games
+- 🌱 I’m currently learning how to use Unity
 - 📫 Reach me at jimenezjsd@gmail.com
 
 <!---
