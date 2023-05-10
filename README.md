@@ -1,6 +1,6 @@
 - 👋 Hey, this is Janine
 - 👀 I’m interested in developing my own app
-- 🌱 I’m currently learning how to React Native
+- 🌱 I’m currently learning how to use React Native
 - 📫 Reach me at jimenezjsd@gmail.com
 
 <!---
