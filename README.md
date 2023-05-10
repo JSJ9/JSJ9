@@ -1,6 +1,6 @@
-- 👋 Hey, this is Janine, or JSJ9
-- 👀 I’m interested in how to make games
-- 🌱 I’m currently learning how to use Unity
+- 👋 Hey, this is Janine
+- 👀 I’m interested in developing my own app
+- 🌱 I’m currently learning how to React Native
 - 📫 Reach me at jimenezjsd@gmail.com
 
 <!---
