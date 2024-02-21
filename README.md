@@ -1,7 +1,7 @@
-- 👋 Hey, this is Janine
-- 👀 I’m interested in developing my own app
-- 🌱 I’m currently learning how to use React Native
-- 📫 Reach me at jimenezjsd@gmail.com
+- 👋 Hello! This is Janine
+- 👀 I’m interested in machine learning and robotics
+- 🌱 I’m currently learning how to create a home appliance system
+- 📫 Reach me at jimenezj9@utexas.edu
 
 <!---
 JSJ9/JSJ9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
