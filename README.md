@@ -1,6 +1,5 @@
 - 👋 Hello! This is Janine
 - 👀 I’m interested in machine learning and robotics
-- 🌱 I’m currently learning how to teach a robot to place items on a table through PyBullet and convolutional neural networks.
 - 📫 Reach me at jimenezj9@utexas.edu
 
 <!---
