@@ -1,5 +1,5 @@
 - 👋 Hello! This is Janine
-- 👀 I’m interested in machine learning and robotics
+- 👀 I’m interested in front end development
 - 📫 Reach me at jimenezj9@utexas.edu
 
 <!---
